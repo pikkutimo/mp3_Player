@@ -1,6 +1,6 @@
 # Mp3 Soitin
 
-![Graafinen käyttöliittymä](gui.png)
+![Graafinen käyttöliittymä](gui.jpg)
 
 ## 5G00BM81-3006 Kehittyneet ohjelmointikielet
 
